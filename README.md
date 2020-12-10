@@ -1,4 +1,4 @@
-# cards
+# Switching Cards
 
 A new Flutter application.
 
