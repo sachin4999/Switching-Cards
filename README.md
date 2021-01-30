@@ -1,6 +1,6 @@
 # Switching Cards
 
-A new Flutter application.
+A new Flutter application that switches the Cards randomly when touched. 
 
 ## Getting Started
 
